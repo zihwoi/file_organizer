@@ -1,2 +1,16 @@
-# file_organizer
-A simple and efficient command-line tool that automates file organization by sorting files into categorized folders based on their file types. This tool helps users maintain a clean and organized workspace by automatically moving images, documents, videos, and other file types into corresponding subfolders. 
+# File Organizer CLI Tool
+
+This Python command-line tool organizes files in a specified directory by grouping them into folders based on their file types (e.g., documents, images, videos). 
+
+## Features
+- Organizes files into categories: Documents, Images, Videos, Others.
+- Customizable file type categories.
+- Supports a dry run mode for previewing changes before applying them.
+
+## Usage
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/file-organizer.git
+cd file-organizer
+
